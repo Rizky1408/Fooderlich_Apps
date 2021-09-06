@@ -17,6 +17,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+#Demo
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo1.jpeg">
+
 
 # Fooderich_Apps
 # Fooderlich_Apps
