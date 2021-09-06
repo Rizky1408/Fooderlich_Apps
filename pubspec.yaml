@@ -1,0 +1,35 @@
+name: fooderlich
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.1.0
+  provider: ^5.0.0
+  flutter_colorpicker: ^0.4.0
+  intl: ^0.17.0
+  uuid: ^3.0.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - assets/fooderlich_assets/
+     - assets/food_pics/
+     - assets/magazine_pics/
+     - assets/profile_pics/
+     - assets/sample_data/
