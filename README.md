@@ -18,7 +18,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 #Demo
-<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo1.jpeg" widht="100">
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo1.jpeg" widht="50">
 
 
 # Fooderich_Apps
