@@ -26,5 +26,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-# Fooderich_Apps
 # Fooderlich_Apps
