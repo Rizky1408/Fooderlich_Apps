@@ -1,8 +1,8 @@
 # fooderlich
 
-ini merupakan aplikasi Fooderlich hasil dari kursus KMMI Flutter Universitas Lampung
+ini merupakan aplikasi Fooderlich hasil dari kursus KMMI Flutter di Universitas Lampung
 
-versi sdk yang digunakan 2.7.0 (belum null safety)
+versi sdk yang digunakan 2.7.0 (belum null safety) bisa di lihat di pubspec.yaml
 
 ## Getting Started
 
