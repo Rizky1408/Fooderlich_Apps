@@ -19,10 +19,19 @@ samples, guidance on mobile development, and a full API reference.
 
 #Demo
 <br>
-<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo1.jpeg" width="150">
-<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo2.jpeg" width="150">
-<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo3.jpeg" width="150">
-<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo4.jpeg" width="150">
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo1.jpeg" width="250">
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo2.jpeg" width="250">
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo3.jpeg" width="250">
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/demo4.jpeg" width="250">
+
+#Update fitur search dengan shared preferences v ^2.0.7
+<br>
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/DemoUpdate1.png" width="250">
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/DemoUpdate2.png" width="250"> 
+
+Penambahan file ada pada lib/screens/search_bar.dart
+                                                                                                
+
 
 
 
