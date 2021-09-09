@@ -13,8 +13,8 @@ versi sdk yang digunakan 2.7.0 (belum null safety) bisa di lihat di pubspec.yaml
 
 #Update fitur search dengan shared preferences v ^2.0.7
 <br>
-<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/DemoUpdate1.png" width="250">
-<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/DemoUpdate2.png" width="250"> 
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/DemoUpdate1.png" width="350">
+<img src="https://github.com/Rizky1408/Fooderlich_Apps/blob/main/assets/DemoUpdate2.png" width="350"> 
 
 <b>Penambahan file ada pada lib/screens/search_bar.dart</b>
 
