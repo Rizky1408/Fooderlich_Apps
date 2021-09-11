@@ -7,6 +7,7 @@ versi sdk yang digunakan 2.7.0 (belum null safety) bisa di lihat di pubspec.yaml
 #Demo
 <br>
 #Update fitur search dengan shared preferences v ^2.0.7
+
 <br>
 <b>Penambahan file ada pada lib/screens/search_bar.dart</b>
 <br>
