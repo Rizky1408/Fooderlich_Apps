@@ -5,7 +5,7 @@ ini merupakan aplikasi Fooderlich hasil dari kursus KMMI Flutter di Universitas 
 versi sdk yang digunakan 2.7.0 (belum null safety) bisa di lihat di pubspec.yaml
 
 #Demo
-<br>
+<br><br>
 #Update fitur search dengan shared preferences v ^2.0.7
 
 <br>
